@@ -1,3 +1,3 @@
 
 USE vendas;
-SELECT * FROM Produto;
+DESC Produto;
